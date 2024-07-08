@@ -1,1 +1,1 @@
-# Lr_Simple Model
+# LinearRegression_Simple Model
