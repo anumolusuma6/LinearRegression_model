@@ -1,4 +1,5 @@
-# LinearRegression_Simple Model'Overview
+# LinearRegression_Simple Model
+### Overview
 This project demonstrates the implementation of a simple linear regression model using Python/R to predict a target variable based on a single predictor variable.
 
 ### Dataset
